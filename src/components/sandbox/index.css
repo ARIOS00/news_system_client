@@ -1,0 +1,10 @@
+.logo {
+    margin: 10px;
+    text-align: center;
+    line-height: 32px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: rgb(10, 59, 133);
+    border-radius: 5px;
+}

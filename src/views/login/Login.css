@@ -1,0 +1,31 @@
+.loginBg {
+    height: 100vh;
+    width: 100%;
+}
+
+.loginTitle {
+    text-align: center;
+    height: 80px;
+    line-height: 60px;
+    font-size: 30px;
+    color: rgb(6, 6, 103);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.loginModal {
+    position: fixed;
+    width: 500px;
+    height: 300px;
+    top: 50%;
+    left: 50%;
+    padding: 20px;
+    
+    background-color: rgb(255, 255, 255);
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 4px 4px rgb(255, 255, 255); */
+}
+
+.buttonContainer {
+    text-align: center;
+}
