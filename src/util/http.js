@@ -1,7 +1,7 @@
 import axios from 'axios'
 import store from '../redux/store'
 
-axios.defaults.baseURL='http://localhost:4000'
+axios.defaults.baseURL='http://52.14.200.96:4000'
 
 axios.interceptors.request.use(function(config){
     store.dispatch({
