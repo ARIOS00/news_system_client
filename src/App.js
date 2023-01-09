@@ -8,6 +8,7 @@ import store from './redux/store'
 export function App() {
     useEffect(()=>{
 
+      
       },[])
       return (
                 <IndexRouter></IndexRouter>      
